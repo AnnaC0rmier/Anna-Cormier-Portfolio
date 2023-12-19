@@ -1,0 +1,112 @@
+
+
+body{
+    background-image: linear-gradient(to bottom right, #f858b3, #9d9c27);
+    background-repeat:no-repeat;
+    font-family:sans-serif;
+    
+}
+
+header{
+    margin-top:30px;
+    border-bottom: solid white 3px;
+    width:100%;
+    display:inline-flex;
+}
+
+
+
+
+h1{
+    font-size:31px;
+    font-family:sans-serif;
+}
+
+
+
+nav ul{
+    display:inline-flex;
+    position:absolute;
+    right:35px;
+    top:42px;
+    
+}
+
+ul{
+    list-style:none;
+    gap: 40px;
+    font-size: 20px;
+}
+section{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.section1{
+    /* border: solid black 2px; */
+    text-align:center;
+    position:relative;
+    width:400px;
+    
+}
+
+.section2{
+    /* border: solid black 2px; */
+}
+
+
+
+.section3{
+    /* border: solid black 2px; */
+    font-size:20px;
+    text-align:center;
+    
+}
+
+.img .p{
+    display:block;
+    margin:auto;
+    transform: translate(-50%, -50%);
+}
+
+
+.big{
+    padding:20px;
+    display:flex;
+    justify-content:center;
+}
+
+
+.small{
+    padding:20px;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+
+.list{
+    list-style:none;
+    display: inline-flex;
+    
+}
+
+
+
+#img1{
+    height:200px;
+    width:200px;
+    border-radius:100px;
+    
+}
+
+#project1{
+    height:200px;
+    width:600px;
+}
+
+#project2, #project3, #project4{
+    height:200px;
+    width:300px;
+    display:inline;
+}
+
