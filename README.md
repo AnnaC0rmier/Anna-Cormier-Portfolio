@@ -5,7 +5,7 @@
 
 
 As a Developer, I want to showcase my work. 
-I created a portfolio webstie that allows  potention employeers to reference projects I have completed, learn about my education histroy and skills, 
+I created a portfolio webstie that allows  potential employeers to reference projects I have completed, learn about my education histroy and skills, 
 as well as be able interact with the contact section and reach out to me by their preferred method.
 
 
