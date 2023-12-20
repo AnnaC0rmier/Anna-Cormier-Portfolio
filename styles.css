@@ -2,14 +2,14 @@
 
 body{
     background-image: linear-gradient(to bottom right, #f858b3, #9d9c27);
-    background-repeat:no-repeat;
+    /* background-repeat:no-repeat; */
     font-family:sans-serif;
-    
+    background-size: cover;
 }
 
 header{
     margin-top:30px;
-    border-bottom: solid white 3px;
+    border-bottom: solid white 5px;
     width:100%;
     display:inline-flex;
 }
@@ -18,35 +18,37 @@ header{
 
 
 h1{
-    font-size:31px;
+    font-size: 50px;
     font-family:sans-serif;
 }
 
 
+ul{
+    list-style:none;
+    gap: 40px;
+    font-size: 30px;
+}
+section{
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
 
 nav ul{
     display:inline-flex;
     position:absolute;
     right:35px;
-    top:42px;
-    
+    top:42px;   
 }
 
-ul{
-    list-style:none;
-    gap: 40px;
-    font-size: 20px;
-}
-section{
-    margin-left:auto;
-    margin-right:auto;
-}
 
 .section1{
     /* border: solid black 2px; */
     text-align:center;
     position:relative;
     width:400px;
+    
     
 }
 
@@ -57,16 +59,18 @@ section{
 
 
 .section3{
-    /* border: solid black 2px; */
+    border-top: solid whitesmoke 5px;
+    padding-top: 45px;
     font-size:20px;
     text-align:center;
+    height: 100px;
+    
     
 }
 
-.img .p{
-    display:block;
-    margin:auto;
-    transform: translate(-50%, -50%);
+.p{
+font-size: 25px;
+
 }
 
 
@@ -84,13 +88,19 @@ section{
 }
 
 
-.list{
+footer .list{
     list-style:none;
     display: inline-flex;
+    gap: 50px;
+    
     
 }
 
-
+.img .p{
+    display:block;
+    margin:auto;
+    /* transform: translate(-50%, -50%); */
+}
 
 #img1{
     height:200px;
