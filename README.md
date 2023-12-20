@@ -22,4 +22,5 @@ Languages included in this project are HTML and CSS
 ## A look at the finished product ##
 
 
+![annac0rmier github io_Anna-Cormier-Portfolio_ (2)](https://github.com/AnnaC0rmier/Anna-Cormier-Portfolio/assets/149715329/5bd57971-801e-4e0a-b47e-502159d950cc)
 
